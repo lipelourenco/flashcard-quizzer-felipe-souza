@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from quiz_modes import QuizModeFactory
+from utils.quiz_engine import QuizModeFactory
 from utils.file_handler import FlashcardDataError, load_flashcards
 
 GREEN = "\033[92m"

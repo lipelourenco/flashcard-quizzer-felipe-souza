@@ -1,4 +1,4 @@
-from quiz_modes import AdaptiveMode, QuizModeFactory, RandomMode, SequentialMode
+from utils.quiz_engine import AdaptiveMode, QuizModeFactory, RandomMode, SequentialMode
 
 
 def test_quiz_mode_factory():
