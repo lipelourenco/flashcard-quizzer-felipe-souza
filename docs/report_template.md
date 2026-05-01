@@ -61,7 +61,7 @@ Technology stack:
 
 ### AI Tools Used
 
-- [x] Claude
+- [ ] Claude
 - [ ] GitHub Copilot
 - [x] ChatGPT
 - [ ] Other
