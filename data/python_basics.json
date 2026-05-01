@@ -1,0 +1,114 @@
+[
+  {
+    "front": "What keyword defines a function in Python?",
+    "back": "def"
+  },
+  {
+    "front": "What keyword defines a class in Python?",
+    "back": "class"
+  },
+  {
+    "front": "Which built-in function returns the length of a list?",
+    "back": "len()"
+  },
+  {
+    "front": "What data type is created by square brackets like [1, 2, 3]?",
+    "back": "list"
+  },
+  {
+    "front": "What data type is created by parentheses like (1, 2, 3)?",
+    "back": "tuple"
+  },
+  {
+    "front": "What data type stores key-value pairs in Python?",
+    "back": "dict"
+  },
+  {
+    "front": "What symbol starts a comment in Python?",
+    "back": "#"
+  },
+  {
+    "front": "What keyword is used to import a module?",
+    "back": "import"
+  },
+  {
+    "front": "What does the expression 5 // 2 evaluate to?",
+    "back": "2"
+  },
+  {
+    "front": "What does the expression 5 % 2 evaluate to?",
+    "back": "1"
+  },
+  {
+    "front": "What keyword is used for conditional branching?",
+    "back": "if"
+  },
+  {
+    "front": "What keyword provides an alternative branch in a conditional?",
+    "back": "else"
+  },
+  {
+    "front": "What keyword is used for multiple conditional branches?",
+    "back": "elif"
+  },
+  {
+    "front": "What loop iterates over items of a sequence?",
+    "back": "for"
+  },
+  {
+    "front": "What loop repeats while a condition is true?",
+    "back": "while"
+  },
+  {
+    "front": "What statement exits a loop immediately?",
+    "back": "break"
+  },
+  {
+    "front": "What statement skips to the next loop iteration?",
+    "back": "continue"
+  },
+  {
+    "front": "What keyword creates an anonymous function?",
+    "back": "lambda"
+  },
+  {
+    "front": "Which value represents 'no value' in Python?",
+    "back": "None"
+  },
+  {
+    "front": "What built-in function converts a value to an integer?",
+    "back": "int()"
+  },
+  {
+    "front": "What built-in function converts a value to a string?",
+    "back": "str()"
+  },
+  {
+    "front": "What built-in function prints output to the console?",
+    "back": "print()"
+  },
+  {
+    "front": "Which operator checks equality?",
+    "back": "=="
+  },
+  {
+    "front": "Which keyword handles exceptions?",
+    "back": "try"
+  },
+  {
+    "front": "Which keyword catches exceptions?",
+    "back": "except"
+  },
+  {
+    "front": "Which keyword is used to return a value from a function?",
+    "back": "return"
+  },
+  {
+    "front": "What built-in function gets user input as text?",
+    "back": "input()"
+  },
+  {
+    "front": "Which boolean operator means both conditions must be true?",
+    "back": "and"
+  }
+]
